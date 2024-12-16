@@ -1,3 +1,30 @@
 body {
-  background-color: aqua;
+  background-color: black;
+  padding: 10px;
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.component-box {
+  display: flex;
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+  border: none;
 }

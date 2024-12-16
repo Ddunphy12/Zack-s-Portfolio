@@ -1,4 +1,5 @@
 import React from "react";
+import "../style.css";
 
 const Qap1 = () => {
   return (
@@ -9,7 +10,12 @@ const Qap1 = () => {
         <p></p>
       </div>
       <div className="project-box">
-        <iframe src="https://ddunphy12.github.io/Qap-1/" title="QAP1"></iframe>;
+        <iframe
+          src="https://ddunphy12.github.io/Qap-1/"
+          title="QAP1"
+          className="iframe"
+        ></iframe>
+        ;
       </div>
       <p>
         Click{" "}
