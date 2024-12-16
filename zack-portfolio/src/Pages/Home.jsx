@@ -3,7 +3,7 @@ import "../style.css";
 
 function Home() {
   return (
-    <main>
+    <main className="Home">
       <h2>Hello! I'm Zackery Strickland</h2>
       <p>
         I'm a passionate <strong>Software Developer</strong> with only about a
